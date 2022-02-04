@@ -1,4 +1,4 @@
-# Development eviroment setup based in Three.js Journey
+# Development enviroment setup based in Three.js Journey
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
